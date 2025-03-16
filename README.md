@@ -1,4 +1,4 @@
-# Hastane Hasta Takip Sistemi
+# Hastane Acil Servis Takip Sistemi
 
 Bu proje, hastane ortamında hasta kayıtlarının, taburcu işlemlerinin, hasta öncelik sırasının ve ilaç reçetelerinin yönetilmesini sağlayan bir C dili uygulamasıdır.
 
