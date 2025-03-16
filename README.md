@@ -7,8 +7,8 @@ Bu proje, hastane ortamında hasta kayıtlarının, taburcu işlemlerinin, hasta
 
 Özellikler
 
-.Hasta ekleme
-.Hasta taburcu etme
+-Hasta ekleme
+-Hasta taburcu etme
 -Hasta listesini görüntüleme
 -Öncelik sırasına göre hasta görüntüleme
 -Hasta için ilaç reçeteleme
